@@ -1,6 +1,6 @@
 {
   "name": "cwa-simple-atm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A cli based atm machine by using inquirer,node.",
   "main": "index.js",
   "type": "module",
@@ -17,3 +17,4 @@
     "@types/inquirer": "^9.0.7"
   }
 }
+ 
